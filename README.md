@@ -2,6 +2,10 @@
 
 ## Academic Expertise
 
+|   Degree   | Institution | Relevant Courses |
+| ---------- | ------------| ---------------- |
+| Master of Science | Harvard University | Advanced Scientific Computing |
+
 ## Representative Publications
 
 <!--
