@@ -5,8 +5,9 @@
 |   Degree   | Institution | Courses and Details |
 | ---------- | ------------| ---------------- |
 | Master of Science in Electrical Engineering | Harvard University | Advanced Scientific Computing: Numerical Methods; Semidefinite Optimization and Relaxation; Learning, Estimation, and Control of Dynamical Systems |
-| Master of Science in Mechanical Engineering | University of Nevada, Reno | Adaptive Control, Linear Systems, Nonlinear Control Systems, Machine Intelligence, Advanced Mathematical Methods for Engineers |
-| Bacheloe of Science in Mechanical Engineering | University of Nevada, Reno | Linear Algebra; Differential Equations; Applied Numerical Methods; Signals and Systems; Calculus II/III; Digital Control Engineering | 
+| Master of Science in Mechanical Engineering | University of Nevada, Reno | Adaptive Control, Linear Systems, Nonlinear Control Systems, Machine Intelligence, Advanced Mathematical Methods for Engineers; Autonomous Mobile Robots |
+| Bacheloe of Science in Mechanical Engineering | University of Nevada, Reno | Linear Algebra; Differential Equations; Applied Numerical Methods; Signals and Systems; Calculus II/III; Digital Control Engineering; Introduction to Robotics | 
+
 ## Sample Projects
 
 | Type | Project | Link |
