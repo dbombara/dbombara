@@ -15,6 +15,7 @@
 | Course Project | *Semidefinite Programming for Portfolio Optimization* | | 
 | Course Project | *Experimental Verification of Online Control with Adversarial Disturbances* | | 
 | Journal Paper |  *A Koopman-based Residual Modeling Approach for the Control of a Soft Robot Arm* | | 
+| Journal Paper |  *Experimental Characterization and Modeling of the Self-Sensing Property in Compliant Twisted String Actuators* | | 
 | Journal Paper | *Inverse Modeling and Component Selection for Twisted String Actuators* | | 
 | Course Project | *Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging* | | 
 | Journal Paper | *Anthropomorphic twisted string-actuated soft robotic gripper with tendon-based stiffening* | | 
