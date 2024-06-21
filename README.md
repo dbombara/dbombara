@@ -21,6 +21,9 @@
 | Course Project | *Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging* | | 
 | Journal Paper | *Anthropomorphic twisted string-actuated soft robotic gripper with tendon-based stiffening* | | 
 
+## Bookshelf
+| Title | Author |
+| ----- | ------ |
 
 
 <!--
