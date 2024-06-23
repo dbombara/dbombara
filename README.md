@@ -13,8 +13,8 @@
 | Type | Project | Link |
 | ---- | ------- | ---- |
 | Conference Paper | *Discounted Adaptive Online Learning: Towards Better Regularization* | [View PDF](https://arxiv.org/pdf/2402.02720) |
-| Course Project | *Semidefinite Programming for Portfolio Optimization* | | 
-| Course Project | *Experimental Verification of Online Control with Adversarial Disturbances* | | 
+| Course Project | *Semidefinite Programming for Portfolio Optimization* | Link Coming Soon | 
+| Course Project | *Experimental Verification of Online Control with Adversarial Disturbances* | Link Coming Soon | 
 | Journal Paper |  *A Koopman-based Residual Modeling Approach for the Control of a Soft Robot Arm* | Link Coming Soon (Under Review) | 
 | Journal Paper |  *Experimental Characterization and Modeling of the Self-Sensing Property in Compliant Twisted String Actuators* | [View PDF](https://www.researchgate.net/profile/Jun-Zhang-147/publication/348999771_Experimental_Characterization_and_Modeling_of_the_Self-Sensing_Property_in_Compliant_Twisted_String_Actuators/links/60242042299bf1cc26b93ca6/Experimental-Characterization-and-Modeling-of-the-Self-Sensing-Property-in-Compliant-Twisted-String-Actuators.pdf), [**2021 Best Paper Awardee for IEEE Robotics and Automation Letters**](https://www.ieee-ras.org/publications/ra-l/ra-l-paper-awards)| 
 | Journal Paper | *Inverse Modeling and Component Selection for Twisted String Actuators* | [DOI](https://doi.org/10.1109/TMECH.2022.3211433)| 
