@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DAVID BOMBARA</h1> 
+<h1 align="center">Hi 👋, I'm David </h1> 
 <p align="center">Cambridge, MA, USA davidbombara@g.harvard.edu</p>
 <p align="left">
 <a href="https://linkedin.com/in/david-bombara-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qadir941" height="30" width="40" /></a></br>
