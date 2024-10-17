@@ -25,9 +25,9 @@ Management (audited at MIT), Introduction to Data Science.</br>
 <h2>WORK EXPERIENCE</h2>
 <h3> State Street Corporation, Cambridge, MA </h3>
 <h4>Quantitative Research Intern, July 2024–Present</h4>
-<li> - Statistical analysis of historic returns of private equity deals using Python (numpy and pandas). </li>
-<li> - Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information. </li>
-<li> - Communicating research with data visualizations (using matplotlib and seaborn) to academic partners. </li>
+<li> Statistical analysis of historic returns of private equity deals using Python (numpy and pandas). </li>
+<li> Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information. </li>
+<li> Communicating research with data visualizations (using matplotlib and seaborn) to academic partners. </li>
 <h3>Harvard School of Engineering & Applied Sciences, Boston, MA</h3>
 <h4>Graduate Research Assistant / Teaching Fellow, August 2022–Present</h4>
 <ul>
