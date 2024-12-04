@@ -2,66 +2,6 @@
 
 </p>
 
-
-<h2>EDUCATION</h2> 
-<b>Harvard University</b>
-<u>Master of Science / Ph.D. in Electrical Engineering</u>   | August 2022–December 2024 (M.S.), May 2027 (Ph.D)</br>
- <i>Relevant Coursework:  </i>Advanced Scientific Computing; Semidefinite Optimization and Relaxation; Quantitative Investment
-Management (audited at MIT), Introduction to Data Science.</br>
- <i>Awards:  </i>National Science Foundation Graduate Research Fellowship, Harvard Graduate Prize Fellowship
- </br>
- </br>
- 
- <b>University of Nevada, Reno</b>
-<u>Master of Science in Mechanical Engineering</u>   | August 2020–August 2022</br>
- <i>Relevant Coursework:  </i>Digital Control Engineering, Linear Systems, Machine Intelligence</br>
- <i>Awards:  </i> Graduate Dean’s Merit Scholarship, NASA Space Technology Graduate Research Fellowship</br>
- <i>Cumulative GPA:  </i> 4.000/4.000
-  </br>
- </br>
- <b>University of Nevada, Reno</b>
-<u>Bachelor of Science in Mechanical Engineering</u>   |  July 2016–May 2020 </br>
- <i>Cumulative GPA:  </i> Cumulative GPA: 3.834/4.000
-<h2>WORK EXPERIENCE</h2>
-<h3> State Street Corporation, Cambridge, MA </h3>
-<h4>Quantitative Research Intern, July 2024–Present</h4>
-<li> Statistical analysis of historic returns of private equity deals using Python (numpy and pandas). </li>
-<li> Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information. </li>
-<li> Communicating research with data visualizations (using matplotlib and seaborn) to academic partners. </li>
-<h3>Harvard School of Engineering & Applied Sciences, Boston, MA</h3>
-<h4>Graduate Research Assistant / Teaching Fellow, August 2022–Present</h4>
-<ul>
-<li> Implemented online machine learning algorithm for conformal prediction that adapts to distribution shifts for ICML 2024 (preprint) in Python (scipy, pytorch, and online conformal libraries).</li>
-<li>Trained reinforcement learning algorithms using Python-based gymnasium, stable-baselines3, and jax libraries.</li>
-<li>Used Git and Linux command line interface for controlling physical robots; execute physical actions with C++ and Python.</li>
-<li>Developed solution sets for scientific computing homework problems in Python (numpy and scipy libraries).</li>
-</ul>
-<h3>NASA Johnson Space Center,Houston, TX</h3>
-<h4>Visiting Researcher, May 2022–August 2022</h4>
-<ul>
-<li>Used Matlab to mathematically model twisted string actuators and their applications in humanoid robots.</li>
-<li>Constructed physical robot gripper research prototype; presented research findings to NASA researchers.</li>
-</ul>
-<h3>Smart Robotics Lab (University of Nevada, Reno), Reno, NV</h3>
-<h4>Undergraduate/Graduate Research Assistant, November 2018–May 2022</h4>
-<ul>
-<li>Engineered data-driven mathematical model for twisted string actuators, using the Optimization Toolbox and Curve Fitting</li>
-<li>Toolbox in Matlab and Simulink. Earned 2021 Best Paper Award (top &lt; 1% in 2021).</li>
-<li>Developed inverse modeling algorithm and Matlab-based software package for actuators.</li>
-<li>Developed custom mechatronic systems with C++ and arduino and motor control libraries.</li>
-</ul>
-<h3>NASA Langley Research Center, Hampton, VA (Virtual</h3>
-<h4>Intern, Advanced Measurements and Data Systems Branch, June 2020–May 2021</h4>
-<ul>
-<li>Engineered a software package to study phase-changing tunable optical filters using Matlab’s App Designer, Instrument
-Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; published findings in Optical Engineering.</li>
-<li>Earned Exceptional Contribution Award from the Advanced Measurements and Data System’s Branch</li>
-</ul>
-<h3>NASA Ames Research Center, Mountain View, CA</h3>
-<h4>Intern, Flight Vehicle Research & Technology Division, June–August 2019</h4>
-<ul>
-<li>Engineering robot sensor communication system using Matlab’s Bluetooth Toolbox and Image Processing Toolbox.</li>
-</ul>
 <h2>RELEVANT PROJECTS</h2> 
 <table>
 <thead>
